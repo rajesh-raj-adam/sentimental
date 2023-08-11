@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Txt2excelApplication<txt2excel>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.converter.txt2excel.Txt2excelApplication",
+            "projectName": "txt2excel",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
